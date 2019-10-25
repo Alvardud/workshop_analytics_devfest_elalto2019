@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "39049025905",
+    "firebase_url": "https://workshop-analytics-elalto2019.firebaseio.com",
+    "project_id": "workshop-analytics-elalto2019",
+    "storage_bucket": "workshop-analytics-elalto2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39049025905:android:6afbded3b5bf3e812efed0",
+        "android_client_info": {
+          "package_name": "com.example.workshop_analytics_devfest_elalto2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39049025905-3r2jsuhruvf4hq3aadugprp3vsodoj60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.workshop_analytics_devfest_elalto2019",
+            "certificate_hash": "4f9175cc9760a66f5acaec65c6a9cdc18a8f2843"
+          }
+        },
+        {
+          "client_id": "39049025905-p8usvi6hjr0l9m66me76pdipvfsb81bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJMT8egtHt_epe_xv2BrfBg1C8712UhVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39049025905-p8usvi6hjr0l9m66me76pdipvfsb81bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
