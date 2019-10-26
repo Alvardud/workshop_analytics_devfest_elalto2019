@@ -3,7 +3,7 @@ Workshop sobre analiticas realizado en el DevFest del GDG El Alto 2019
 
 # Instalacion:
 ```git
-git clone (repository)
+git clone https://github.com/Alvardud/workshop_analytics_devfest_elalto2019.git
 ```
 ```bash
 cd yo-participo-mobile
